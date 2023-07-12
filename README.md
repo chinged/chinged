@@ -28,4 +28,4 @@
 
 #
 
-![profile](https://felony.wtf/profilepic/wowie.jpg)
+![profile](https://felony.wtf/assets/profile.png)
