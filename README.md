@@ -19,6 +19,11 @@
 - Learning better backend 🖼️
 - Improving my skill at languages I already know 🎯
 
+## Projects
+
+- [Shhhh.lol](https://shhhh.lol/)
+- [kill.wtf](https://kill.wtf/)
+
 ## Clash Of Codes Certifications
 
 - [Javascript](https://www.codingame.com/certification/nYm-G1T3j8G0rH7N1Ohguw) 💻
