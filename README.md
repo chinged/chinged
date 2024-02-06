@@ -2,7 +2,7 @@
 
 ## Mainly used languages
 
-- [Javascript](https://python.org) 💻
+- [Python](https://python.org) 💻
 - [TypeScript](https://www.typescriptlang.org/) ⌨️
 
 ## Fields
@@ -11,7 +11,7 @@
 
 ## Skills & Tools
 
-- Databases (MongoDB & SQL) 🌐
+- Databases (Postgresql & SQL) 🌐
 
 ## Current interests
 
@@ -21,8 +21,8 @@
 
 ## Projects
 
-- [Shhhh.lol](https://shhhh.lol/)
-- [kill.wtf](https://kill.wtf/)
+- [stab.bio](https://stab.bio/)
+- [skid.baby](https://kill.wtf/)
 
 ## Clash Of Codes Certifications
 
@@ -33,4 +33,4 @@
 
 #
 
-![profile](https://kill.wtf/build/profile.png)
+![profile](https://skid.baby/assets/profile.jpg)
